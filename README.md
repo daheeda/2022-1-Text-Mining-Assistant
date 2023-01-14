@@ -6,4 +6,5 @@
 ```
 |- pytorch 실습
 |- transformer 실습
+|- nlp 
 ```
